@@ -171,5 +171,8 @@ module.exports = {
     hash: hash,
     getLocalHash: hash,
     active: active,
-    isActive: active
+    isActive: active,
+    isA: isA,
+    closestA: closestA,
+    isHTMLElement: isHTMLElement
 };
